@@ -26,18 +26,21 @@
 * [Binder Homepage](https://mybinder.org)
 
 ### 3.4 Python Visualization Tools
-[PyData](https://pydata.org/)
+* [PyData](https://pydata.org/)
 * [hvPlot Introduction](https://hvplot.pyviz.org/user_guide/Introduction.html)
 * [hvPlot Plotting](https://hvplot.pyviz.org/user_guide/Plotting.html)
 * [hvPlot Subpots](https://hvplot.pyviz.org/user_guide/Subplots.html)
 
-## 4. Notable GitHub Users
+## 4. Notable GitHub Users & Notebooks
 * https://github.com/daxsoule
 * https://github.com/jakevdp
 * https://github.com/rabernat
 * https://github.com/jsignell
 * https://github.com/tjcrone
 * https://github.com/robfatland
+* [2018 Early Career OOI Data Workshops](https://github.com/ooi-data-review/2018-data-workshops)
+* [2019 OOI Data Lab Workshops](https://github.com/ooi-data-lab/data-lab-workshops)
+* [Data Lab Blog Notebooks](https://github.com/ooi-data-lab/blog-notebooks)
 
 ## 5. OOI Sites
 * [OOI Homepage](https://oceanobservatories.org)
