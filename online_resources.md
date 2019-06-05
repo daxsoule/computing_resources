@@ -1,65 +1,56 @@
-# Unix
-https://en.wikipedia.org/wiki/Unix
+# Computing Resources for Oceanography & Geophysics
 
-https://people.ischool.berkeley.edu/~kevin/unix-tutorial/toc.html
+## 1. Unix
+* [Unix on Wikipedia](https://en.wikipedia.org/wiki/Unix)
+* [Berkeley iSchool: Unix Tutorial](https://people.ischool.berkeley.edu/~kevin/unix-tutorial/toc.html)
+* [linuxjourney: The Shell](https://linuxjourney.com/lesson/the-shell)
+* [linuxjourney: stdout (Standard Out)](https://linuxjourney.com/lesson/stdout-standard-out-redirect)
+* [linuxjourney: Regular Expressions](https://linuxjourney.com/lesson/regular-expressions-regex)
+* [vi cheat sheet](http://www.atmos.albany.edu/daes/atmclasses/atm350/vi_cheat_sheet.pdf)
+* [unix cheat sheet](http://cheatsheetworld.com/programming/unix-linux-cheat-sheet/)
+* [Command-Line Unix Crash Course - Bowdoin College](https://www.bowdoin.edu/~sbarker/unix/)
 
-https://linuxjourney.com/lesson/the-shell
+## 2. Scientific Computing
+* [ESIP Tech Dive: "Pangeo: A big data science platform", Ryan Abernathy and Matthew Rocklin](https://youtu.be/mDrjGxaXQT4)
 
-https://linuxjourney.com/lesson/stdout-standard-out-redirect
+## 3. Python
+### 3.1 Jupyter
+* [Jupyter Homepage](https://jupyter.org)
+* [Zero to JupyterHub with Kubernetes](https://zero-to-jupyterhub.readthedocs.io/en/latest/)
 
-https://linuxjourney.com/lesson/regular-expressions-regex
+### 3.2 Google Colab
+* [Google Colaboratory Introduction](https://colab.research.google.com/notebooks/welcome.ipynb)
 
-http://www.atmos.albany.edu/daes/atmclasses/atm350/vi_cheat_sheet.pdf
+### 3.3 Binders
+* [Binder FAQ](https://mybinder.readthedocs.io/en/latest/faq.html)
+* [Binder Homepage](https://mybinder.org)
 
-http://cheatsheetworld.com/programming/unix-linux-cheat-sheet/
+### 3.4 Python Visualization Tools
+[PyData](https://pydata.org/)
+* [hvPlot Introduction](https://hvplot.pyviz.org/user_guide/Introduction.html)
+* [hvPlot Plotting](https://hvplot.pyviz.org/user_guide/Plotting.html)
+* [hvPlot Subpots](https://hvplot.pyviz.org/user_guide/Subplots.html)
 
-https://www.bowdoin.edu/~sbarker/unix/
+## 4. Notable GitHub Users
+* https://github.com/daxsoule
+* https://github.com/jakevdp
+* https://github.com/rabernat
+* https://github.com/jsignell
+* https://github.com/tjcrone
+* https://github.com/robfatland
 
-# Scientific Computing
-### &emsp;&emsp; - Ryan Abernathy (Lamont)and Matthew Rocklin (Anaconda) 
-https://youtu.be/mDrjGxaXQT4
+## 5. OOI Sites
+* [OOI Homepage](https://oceanobservatories.org)
+* [OOI Data Portal](https://ooinet.oceanobservatories.org) and [documentation](https://oceanobservatories.org/data-portal/)
+* [Interactive Oceans](https://app.interactiveoceans.washington.edu)
+* [OOI Machine 2 Machine / API Documentation](https://oceanobservatories.org/ooi-m2m-interface/)
 
-# Python
-## Jupyter
-https://jupyter.org
-https://zero-to-jupyterhub.readthedocs.io/en/latest/
+## 6. Funding Opportunities
+* [Microsoft Azure](https://azure.microsoft.com/en-us/)
+* [Microsoft AI for Earth](https://www.microsoft.com/en-us/ai/ai-for-earth?activetab=pivot1%3aprimaryr6)
 
-## Google Colab
-https://colab.research.google.com/notebooks/welcome.ipynb
-
-## Binders
-https://mybinder.readthedocs.io/en/latest/faq.html
-https://mybinder.org
-
-## Visualization Tools
-### pyvis
-https://pydata.org/
-https://hvplot.pyviz.org/user_guide/Introduction.html
-https://hvplot.pyviz.org/user_guide/Plotting.html
-https://hvplot.pyviz.org/user_guide/Subplots.html
-
-# GitHub
-https://github.com/daxsoule
-
-https://github.com/jakevdp
-
-https://github.com/rabernat
-
-https://github.com/jsignell
-
-https://github.com/tjcrone
-
-https://github.com/robfatland
-
-# OOI Sites
-https://app.interactiveoceans.washington.edu
-
-# Funding Opportunity
-https://azure.microsoft.com/en-us/
-
-https://www.microsoft.com/en-us/ai/ai-for-earth?activetab=pivot1%3aprimaryr6
-
-# Project EDDIE 
-https://serc.carleton.edu/eddie/index.html
-
-https://serc.carleton.edu/eddie/earthecosystems/eddieevents/workshops/module_development_2019/index.html
+## 7. Education 
+* [Project EDDIE Homepage](https://serc.carleton.edu/eddie/index.html)
+* [Project EDDIE Module Development Workshop 2019](https://serc.carleton.edu/eddie/earthecosystems/eddieevents/workshops/module_development_2019/index.html)
+* [OOI Data Labs Project](https://datalab.marine.rutgers.edu)
+* [OOI Data Explorations Collection](https://datalab.marine.rutgers.edu/explorations/)
