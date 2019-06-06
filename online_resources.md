@@ -57,4 +57,4 @@
 * [Project EDDIE Module Development Workshop 2019](https://serc.carleton.edu/eddie/earthecosystems/eddieevents/workshops/module_development_2019/index.html)
 * [OOI Data Labs Project](https://datalab.marine.rutgers.edu)
 * [OOI Data Explorations Collection](https://datalab.marine.rutgers.edu/explorations/)
-* [Data Nuggets] (https://datareview.marine.rutgers.edu/nuggets)
+* [Data Nuggets](https://datareview.marine.rutgers.edu/nuggets)
