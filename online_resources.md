@@ -32,6 +32,13 @@
 * [hvPlot Plotting](https://hvplot.pyviz.org/user_guide/Plotting.html)
 * [hvPlot Subpots](https://hvplot.pyviz.org/user_guide/Subplots.html)
 
+### 3.5 Mad Pandas help 
+* [Chris Albon.com](https://chrisalbon.com)
+
+### 3.6 Guidance for Git
+* [softwarecarpentry](http://swcarpentry.github.io/git-novice/)
+* [github learning lab](https://lab.github.com/)
+
 ## 4. Notable GitHub Users & Notebooks
 * https://github.com/daxsoule
 * https://github.com/jakevdp
