@@ -38,6 +38,7 @@
 ### 3.6 Guidance for Git
 * [softwarecarpentry](http://swcarpentry.github.io/git-novice/)
 * [github learning lab](https://lab.github.com/)
+* [ohShitGit](https://ohshitgit.com/)
 
 ## 4. Notable GitHub Users & Notebooks
 * https://github.com/daxsoule
