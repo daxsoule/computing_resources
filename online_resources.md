@@ -12,9 +12,7 @@
 
 ## 2. Scientific Computing
 * [ESIP Tech Dive: "Pangeo: A big data science platform", Ryan Abernathy and Matthew Rocklin](https://youtu.be/mDrjGxaXQT4)
-* [Foundations of Data Science](https://www.edx.org/professional-certificate/berkeleyx-foundations-of-data-science) 
-
-* *This is a set of three courses focused on how to think critically about data and draw robust conclusions based on incomplete information. Computational thinking and skills, including the Python 3 programming language for visualizing and analyzing data. How to make predictions based on machine learning. How to interpret and communicate data and results using a vast array of real-world examples.  
+* [Foundations of Data Science](https://www.edx.org/professional-certificate/berkeleyx-foundations-of-data-science)- This is a set of three courses focused on how to think critically about data and draw robust conclusions based on incomplete information. Computational thinking and skills, including the Python 3 programming language for visualizing and analyzing data. How to make predictions based on machine learning. How to interpret and communicate data and results using a vast array of real-world examples.  
 
 ## 3. Python
 ### 3.1 Jupyter
